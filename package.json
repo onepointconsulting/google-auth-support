@@ -1,0 +1,15 @@
+{
+  "name": "google-auth-support",
+  "version": "1.0.0",
+  "description": "Simple functions which support Google Authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "2.1.0",
+    "googleapis": "105"
+  },
+  "author": "Gil Fernandes",
+  "license": "ISC"
+}
